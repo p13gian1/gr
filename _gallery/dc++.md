@@ -1,7 +1,7 @@
 ---
 author: stelios3g
 title: dc++
-image_url: /images/steve-mann-wearable-computer.png
+image_url: /images/dc++.png
 image_thumb: intro/augmented_reality-thumb.jpg
 caption: 'Ο Steve Mann,το 1990 φορώντας τη συσκευή φορετού υπολογιστή (wearable computer) που κατασκεύασε.'
 license_url: https://en.wikipedia.org/wiki/File:Visualfilter_cropped.png
