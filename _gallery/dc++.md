@@ -1,13 +1,12 @@
 ---
-author: p13gian1
+author: stelios3g
 title: dc++
-image_url: /images/dc++.png
-caption: 'Η εφαρμογή DC++ επέτρεπε την σύνδεση peer to peer μεταξύ χρηστών, δημιουργώντας μια διεπαφή για τον διαμοιρασμό αρχείων.'
-image_thumb: intro/dc++-thumb.jpg
-license_url: https://commons.wikimedia.org/wiki/File:Client_connected.png
+image_url: /images/steve-mann-wearable-computer.png
+caption: 'Ο Steve Mann,το 1990 φορώντας τη συσκευή φορετού υπολογιστή (wearable computer) που κατασκεύασε.'
+license_url: https://en.wikipedia.org/wiki/File:Visualfilter_cropped.png
 license_text: Courtesy of Wikipedia.org
 categories:
-  - preface
+  - archetypes
 tags:
   - Steve Mann
   - Wearable Computer
